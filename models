@@ -1,0 +1,35 @@
+{
+  "checkpoints": [
+  ],
+  "vae": [
+    "https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/vae/ae.safetensors"
+  ],
+  "unet": [
+  ],
+  "diffusion_models": [
+    "https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/diffusion_models/z_image_turbo_bf16.safetensors",
+    "https://huggingface.co/Comfy-Org/z_image/resolve/main/split_files/diffusion_models/z_image_bf16.safetensors"
+  ],
+  "text_encoders": [
+    "https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/text_encoders/qwen_3_4b.safetensors"
+  ],
+  "loras": [
+  ],
+  "upscale_models": [
+    "https://huggingface.co/lokCX/4x-Ultrasharp/resolve/main/4x-UltraSharp.pth"
+  ],
+  "controlnet": [
+  ],
+  "clip_vision": [
+  ],
+  "ipadapter": [
+  ],
+  "style_models": [
+  ],
+  "clip": [
+    
+  ],
+  "model_patches": [
+    "https://huggingface.co/alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union/resolve/main/Z-Image-Turbo-Fun-Controlnet-Union.safetensors"
+  ]
+} 
