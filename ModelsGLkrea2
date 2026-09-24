@@ -2,15 +2,17 @@
   "checkpoints": [
   ],
   "vae": [
-    "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors"
+    "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/vae/qwen_image_vae.safetensors"
   ],
   "unet": [
   ],
   "diffusion_models": [
-    "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/diffusion_models/krea2_turbo_fp8_scaled.safetensors"
+    "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/diffusion_models/krea2_turbo_fp8_scaled.safetensors",
+    "https://civitai.red/api/download/models/3171612?fileId=3052369?token=1e0ad0c0b99fc61d7ce3693dd8fec2e2&type=Model"
   ],
   "text_encoders": [
-    "https://huggingface.co/queto332/krtest/resolve/main/qwen3VL4BAbliteratedComfyui_v10.safetensors"
+    "https://huggingface.co/queto332/krtest/resolve/main/qwen3VL4BAbliteratedComfyui_v10.safetensors",
+    "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/text_encoders/qwen3vl_4b_bf16.safetensors"
   ],
   "loras": [
     "https://huggingface.co/queto332/krtest/resolve/main/Krea2_Emotions%5B0.5-1.0%5D_KW_DetailedEmotionsAndExpressions.safetensors",
