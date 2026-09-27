@@ -27,6 +27,9 @@
     "https://huggingface.co/queto332/krtest/resolve/main/krea2_skitittie_KW_SteepSlopeTiddies.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/skindetails_krea2_loraholic.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/Detailer-KREA2.safetensors"
+    "https://huggingface.co/queto332/krtest/resolve/main/Krea_2_MaeveX_epoch_10.safetensors",
+    "https://huggingface.co/queto332/krtest/resolve/main/Krea_2_Natalie_epoch_10.safetensors",
+    "https://huggingface.co/queto332/krtest/resolve/main/Krea_2_SamiraX_epoch_10.safetensors"
   ],
   "upscale_models": [
     "https://huggingface.co/lokCX/4x-Ultrasharp/resolve/main/4x-UltraSharp.pth"
