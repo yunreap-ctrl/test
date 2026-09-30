@@ -8,7 +8,7 @@
   ],
   "diffusion_models": [
     "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/diffusion_models/krea2_turbo_fp8_scaled.safetensors",
-    "https://civitai.red/api/download/models/3338211?fileId=3224824?token=1e0ad0c0b99fc61d7ce3693dd8fec2e2&type=Model"
+    "https://civitai.red/api/download/models/3258954?fileId=3142504?token=1e0ad0c0b99fc61d7ce3693dd8fec2e2&type=Model"
   ],
   "text_encoders": [
     "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/text_encoders/qwen3vl_4b_bf16.safetensors"
