@@ -32,7 +32,7 @@
     "https://huggingface.co/queto332/krtest/resolve/main/nicegirls_krea2.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/lenovo_krea2.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/Liza_Krea2_V1.safetensors",
-    "https://huggingface.co/queto332/krtest/resolve/main/michelle_krea2.safetensors"
+    "https://huggingface.co/queto332/krtest/resolve/main/krea2_Mila.safetensors"
   ],
   "upscale_models": [
     "https://huggingface.co/lokCX/4x-Ultrasharp/resolve/main/4x-UltraSharp.pth"
