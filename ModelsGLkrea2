@@ -32,7 +32,9 @@
     "https://huggingface.co/queto332/krtest/resolve/main/ass_v2_krea2_loraholic.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/tanyatrainkrea2_copy_000001000.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/Krea2NSFW_V5.safetensors",
-    "https://huggingface.co/queto332/krtest/resolve/main/asig2-krea2.safetensors"
+    "https://huggingface.co/queto332/krtest/resolve/main/asig2-krea2.safetensors",
+    "https://huggingface.co/queto332/krtest/resolve/main/AltGirlKreaV1.5.safetensors",
+    "https://huggingface.co/queto332/krtest/resolve/main/k_painexpression.safetensors"
   ],
   "upscale_models": [
     "https://huggingface.co/lokCX/4x-Ultrasharp/resolve/main/4x-UltraSharp.pth"
