@@ -8,9 +8,7 @@
   ],
   "diffusion_models": [
     "https://civitai.red/api/download/models/3112728?fileId=2997637?token=1e0ad0c0b99fc61d7ce3693dd8fec2e2&type=Model",
-    "https://civitai.red/api/download/models/3461809?fileId=3364793?token=1e0ad0c0b99fc61d7ce3693dd8fec2e2&type=Model",
-    "https://civitai.red/api/download/models/3442093?fileId=3340370?token=1e0ad0c0b99fc61d7ce3693dd8fec2e2&type=Model",
-    "https://civitai.red/api/download/models/3333138?fileId=3219464?token=1e0ad0c0b99fc61d7ce3693dd8fec2e2&type=Model"
+    "https://civitai.red/api/download/models/3442093?fileId=3340370?token=1e0ad0c0b99fc61d7ce3693dd8fec2e2&type=Model"
   ],
   "text_encoders": [
     "https://huggingface.co/Comfy-Org/Qwen3-VL/resolve/main/text_encoders/qwen3vl_4b_fp8_scaled.safetensors"
@@ -19,22 +17,16 @@
     "https://huggingface.co/queto332/krtest/resolve/main/krea2_natural_expressions_V2%5B0.6-1.2%5D.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/Krea2_FameGrid%5B0.3-0.6%5D_KW_Famegrid.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/Krea2_Mewto%5B0.5-2%5D_KW_CurvyWoman.safetensors",
-    "https://huggingface.co/queto332/krtest/resolve/main/Krea2_NSFW_V4%5B0.8-2.0%5D.safetensors",
-    "https://huggingface.co/queto332/krtest/resolve/main/refusal_reduction_v2_full_rank.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/skindetails_krea2_loraholic.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/Detailer-KREA2.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/lenovo_krea2.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/Liza_Krea2_V1.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/krea2_Mila.safetensors",
-    "https://huggingface.co/queto332/krtest/resolve/main/PAWGK2.2.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/RealisticSnapshotKrea2V2.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/BreastSlider-KREA2.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/ass%20hips%20v2.safetensors",
-    "https://huggingface.co/queto332/krtest/resolve/main/ass_v2_krea2_loraholic.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/tanyatrainkrea2_copy_000001000.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/Krea2NSFW_V5.safetensors",
-    "https://huggingface.co/queto332/krtest/resolve/main/asig2-krea2.safetensors",
-    "https://huggingface.co/queto332/krtest/resolve/main/AltGirlKreaV1.5.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/k_painexpression.safetensors",
     "https://huggingface.co/queto332/krtest/resolve/main/krea2-bloomgirls-realism-step00004000.safetensors"
   ],
